@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "First-app",
-    "slug": "First-app"
+    "slug": "First-app",
+    "extra": {
+      "eas": {
+        "projectId": "5b4f3e6e-8bd9-4631-bcf5-a1cefd31298b"
+      }
+    },
+    "android": {
+      "package": "com.arashmidos1370.Firstapp"
+    }
   }
 }
